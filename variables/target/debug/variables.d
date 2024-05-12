@@ -1,1 +1,1 @@
-/home/hardik/Desktop/rust_project/variables/target/debug/variables: /home/hardik/Desktop/rust_project/variables/src/main.rs
+/home/hardikj/Desktop/learning-rust/variables/target/debug/variables: /home/hardikj/Desktop/learning-rust/variables/src/main.rs
